@@ -10,4 +10,3 @@
     "penerbit": "M ARIF",
     "tahun": 2099
 }
-# API
